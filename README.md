@@ -2,9 +2,7 @@
 
 API REST simple para gestión de préstamos de una biblioteca, construida con **Python + Flask + PostgreSQL**.
 
-Este proyecto es el **parcial** de la asignatura de Ingeniería de Software III. La API contiene bugs
-intencionales que debes encontrar mediante pruebas de caja negra sobre los 4 endpoints, en un máximo
-de **2 horas**.
+
 
 ---
 
